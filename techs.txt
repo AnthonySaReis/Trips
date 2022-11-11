@@ -1,0 +1,9 @@
+react-router-dom
+json-server
+axios
+ract-icons
+redux
+react-redux
+redux-saga
+history
+immer
